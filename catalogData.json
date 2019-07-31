@@ -32,10 +32,10 @@
   'id_product':456,
   'product_name':'USB-Camera',
   'price':15
-  }
+  },
  {
   'id_product':555,
   'product_name':'GamePad',
   'price': 56
-  },
+  }
 ]
