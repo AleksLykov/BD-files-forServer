@@ -1,40 +1,40 @@
 [ {
-  "id_product":123,
+  "product_id":123,
   "product_name":"Notebook",
   "price":1100
   },
   {
-  "id_product":232,
+  "product_id":232,
   "product_name":"Display",
   "price": 230
   },
  {
-  "id_product":111,
+  "product_id":111,
   "product_name":"Keyboard",
   "price": 23
   },
  {
-  "id_product":433,
+  "product_id":433,
   "product_name":"Mouse",
   "price": 34
   },
  {
-  "id_product":266,
+  "product_id":266,
   "product_name":"Phone",
   "price": 67
   },
  {
-  "id_product":876,
+  "product_id":876,
   "product_name":"Router",
   "price": 41
   },
   {
-  "id_product":456,
+  "product_id":456,
   "product_name":"USB-Camera",
   "price":15
   },
  {
-  "id_product":555,
+  "product_id":555,
   "product_name":"GamePad",
   "price": 56
   }
