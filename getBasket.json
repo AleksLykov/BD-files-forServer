@@ -1,3 +1,18 @@
 {
-  "result": 1
+  "amount": 253,
+  "countGoods": 2,
+  "contents": [
+    {
+      "product_id": 232,
+      "product_name": "Display",
+      "price": 230,
+      "quantity": 1
+    },
+    {
+      "id_product": 111,
+      "product_name": "Keyboard",
+      "price": 23,
+      "quantity": 1
+    }
+  ]
 }
