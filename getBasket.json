@@ -9,7 +9,7 @@
       "quantity": 1
     },
     {
-      "id_product": 111,
+      "product_id": 111,
       "product_name": "Keyboard",
       "price": 23,
       "quantity": 1
