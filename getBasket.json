@@ -6,13 +6,13 @@
       "product_id": 232,
       "product_name": "Display",
       "price": 230,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "product_id": 111,
       "product_name": "Keyboard",
       "price": 23,
-      "quantity": 1
+      "quantity": 5
     }
   ]
 }
